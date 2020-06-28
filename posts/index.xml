@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on n0026k</title>
+		<link>https://n0026k.github.io/posts/</link>
+		<description>Recent content in Posts on n0026k</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>fr-FR</language>
+		<copyright>Everything is mine.</copyright>
+		<lastBuildDate>Sun, 28 Jun 2020 22:13:20 +0200</lastBuildDate>
+		<atom:link href="https://n0026k.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Post Test</title>
+			<link>https://n0026k.github.io/posts/post-test/</link>
+			<pubDate>Sun, 28 Jun 2020 22:13:20 +0200</pubDate>
+			
+			<guid>https://n0026k.github.io/posts/post-test/</guid>
+			<description>Petit test Petit test pour la mise en ligne du site.</description>
+			<content type="html"><![CDATA[<h2 id="petit-test">Petit test</h2>
+<p>Petit test pour la mise en ligne du site.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
